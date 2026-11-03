@@ -1,0 +1,5 @@
+category_code,category_name,num_documentos,palabras_promedio,palabras_min,palabras_max,palabras_std
+astro-ph.CO,Astrofísica y Cosmología,50,210.1,108,292,44.26
+cs.AI,Inteligencia Artificial,50,207.76,103,294,42.08
+q-bio.GN,Genómica y Biología Computacional,50,207.36,124,324,42.06
+q-fin.PM,Finanzas Cuantitativas,50,190.8,40,301,61.47
