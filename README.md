@@ -6,7 +6,7 @@
 
 Repositorio oficial del **Proyecto Computacional** para el curso **Álgebra Lineal Avanzada y Modelamiento (IMT2230)** de la **Pontificia Universidad Católica de Chile**.
 
-* **Estudiante:** Damián Bravo
+* **Estudiantes:** Damián Bravo, Felipe López
 * **Profesor:** Alexander Kozachinskiy (`alexander.kozachinskyi@cenia.cl`)
 * **Ayudante:** Victoria Otárola (`victoriaotarola@estudiante.uc.cl`)
 * **Repositorio GitHub:** [https://github.com/damian11daba/proyecto-avanzada-y-modelamiento.git](https://github.com/damian11daba/proyecto-avanzada-y-modelamiento.git)

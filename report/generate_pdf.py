@@ -195,7 +195,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
     
     <div class="meta-box">
         <table>
-            <tr><td><strong>Estudiante:</strong></td><td>Damián Bravo</td></tr>
+            <tr><td><strong>Estudiantes:</strong></td><td>Damián Bravo, Felipe López</td></tr>
             <tr><td><strong>Profesor:</strong></td><td>Alexander Kozachinskiy (<code>alexander.kozachinskyi@cenia.cl</code>)</td></tr>
             <tr><td><strong>Ayudante:</strong></td><td>Victoria Otárola (<code>victoriaotarola@estudiante.uc.cl</code>)</td></tr>
             <tr><td><strong>Repositorio GitHub:</strong></td><td><a href="https://github.com/damian11daba/proyecto-avanzada-y-modelamiento.git">github.com/damian11daba/proyecto-avanzada-y-modelamiento.git</a></td></tr>

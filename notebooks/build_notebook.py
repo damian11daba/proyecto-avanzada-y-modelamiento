@@ -35,7 +35,7 @@ r"""# Proyecto Computacional: Análisis Semántico Latente (LSA) usando SVD
 
 * **Profesor:** Alexander Kozachinskiy
 * **Ayudante:** Victoria Otárola
-* **Estudiante:** Damián Bravo (y grupo)
+* **Estudiantes:** Damián Bravo, Felipe López
 * **Repositorio GitHub:** [https://github.com/damian11daba/proyecto-avanzada-y-modelamiento.git](https://github.com/damian11daba/proyecto-avanzada-y-modelamiento.git)
 
 ---
